@@ -9,9 +9,9 @@
     <relativePath>../../../../</relativePath>
   </parent>
   <groupId>org.example.myproject.job</groupId>
-  <artifactId>OnBoardingDemoJob</artifactId>
+  <artifactId>Python_call</artifactId>
   <version>0.1.0</version>
-  <name>MYPROJECT OnBoardingDemoJob-0.1.0 (0.1,Job Designs)</name>
+  <name>MYPROJECT Python_call-0.1.0 (0.1,Job Designs)</name>
   <properties>
     <output.resources.dir>${talend.job.name}/src/main/resources</output.resources.dir>
     <talend.job.applyContextToChildren>false</talend.job.applyContextToChildren>
@@ -19,11 +19,11 @@
     <current.int-resources.dir>${basedir}/src/main/resources</current.int-resources.dir>
     <talend.job.version>0.1</talend.job.version>
     <talend.project.name.lowercase>myproject</talend.project.name.lowercase>
-    <talend.job.path>myproject/onboardingdemojob_0_1</talend.job.path>
+    <talend.job.path>myproject/python_call_0_1</talend.job.path>
     <maven.build.timestamp.format>yyyy-MM-dd HHmmssSSS</maven.build.timestamp.format>
     <talend.project.name>MYPROJECT</talend.project.name>
     <talend.product.version>7.0.1.20180712_0921-patch</talend.product.version>
-    <talend.job.finalName>onboardingdemojob_0_1</talend.job.finalName>
+    <talend.job.finalName>python_call_0_1</talend.job.finalName>
     <talend.pigudf.groupid>org.example.myproject.pigudf</talend.pigudf.groupid>
     <talend.routine.groupid>org.example.myproject.code</talend.routine.groupid>
     <current.bundle.resources.dir>${basedir}/src/main/bundle-resources</current.bundle.resources.dir>
@@ -33,7 +33,7 @@
     <talend.job.stat>true</talend.job.stat>
     <talend.job.date>${maven.build.timestamp}</talend.job.date>
     <current.resources.dir>${basedir}/src/main/ext-resources</current.resources.dir>
-    <talend.job.name>OnBoardingDemoJob</talend.job.name>
+    <talend.job.name>Python_call</talend.job.name>
     <talend.job.id>_QKNNUGZ8EeWm5YvsrIoYzQ</talend.job.id>
     <talend.project.id>0</talend.project.id>
     <talend.job.framework></talend.job.framework>
