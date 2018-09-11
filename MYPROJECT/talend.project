@@ -124,6 +124,8 @@
       <relatedItems xmi:id="_wN9vj7S8EeiUptyxJgHlcw" id="DQTechnical" version="Latest" type="routine"/>
       <relatedItems xmi:id="_wN9vkLS8EeiUptyxJgHlcw" id="DataQualityDependencies" version="Latest" type="routine"/>
       <relatedItems xmi:id="_wN9vkbS8EeiUptyxJgHlcw" id="TalendStringUtil" version="Latest" type="routine"/>
+      <relatedItems xmi:id="__Ht1ILWEEeiUptyxJgHlcw" id="_LmZY0LWEEeiUptyxJgHlcw" version="Latest" type="property"/>
+      <relatedItems xmi:id="__Ht1IbWEEeiUptyxJgHlcw" id="_4a8KQLS3EeiUptyxJgHlcw - emp" version="Latest" type="schema"/>
     </ItemsRelations>
     <migrationTask xmi:id="_hbJx0LGjEei-WNLfQsAaIg" id="org.talend.repository.localprovider.RemoveRoutineFolderTask" breaks="5.1.1" version="5.1.2" status="noimpact"/>
     <migrationTask xmi:id="_hbJx0bGjEei-WNLfQsAaIg" id="org.talend.repository.localprovider.model.migration.ChangeXmiSerialization" breaks="5.1.1" version="5.1.2" status="noimpact"/>
